@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "65567997335",
+    "project_id": "socialnet-1c012",
+    "storage_bucket": "socialnet-1c012.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65567997335:android:c2d8b8839450eb245358d2",
+        "android_client_info": {
+          "package_name": "com.example.social_net"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWCdFnTnBsj_kSQ9Xyzhada5leFfXjqI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65567997335:android:8afc29163fe853ef5358d2",
+        "android_client_info": {
+          "package_name": "com.example.test_please_run"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWCdFnTnBsj_kSQ9Xyzhada5leFfXjqI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

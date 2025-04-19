@@ -1,0 +1,2 @@
+C:/Users/peter/AndroidStudioProjects/social_net/android/app/.cxx/Debug/1ip5q2z6/x86/CMakeFiles/edit_cache.dir
+C:/Users/peter/AndroidStudioProjects/social_net/android/app/.cxx/Debug/1ip5q2z6/x86/CMakeFiles/rebuild_cache.dir
